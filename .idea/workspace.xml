@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="69509be8-cbe2-4039-b62f-4eaade36c02f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/forms.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/music/templates/music/registration_form.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/music/models.py" afterPath="$PROJECT_DIR$/music/models.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/music/templates/music/album_form.html" afterPath="$PROJECT_DIR$/music/templates/music/album_form.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/music/templates/music/detail.html" afterPath="$PROJECT_DIR$/music/templates/music/detail.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/music/templates/music/index.html" afterPath="$PROJECT_DIR$/music/templates/music/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/music/urls.py" afterPath="$PROJECT_DIR$/music/urls.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/music/views.py" afterPath="$PROJECT_DIR$/music/views.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/website/settings.py" afterPath="$PROJECT_DIR$/website/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/website/urls.py" afterPath="$PROJECT_DIR$/website/urls.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
