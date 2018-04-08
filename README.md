@@ -12,6 +12,6 @@
 <h2>Status:</h2>
 <ul>
     <li>
-        Currently in developing phase.
+        Currently in developing phase. Development postponed due to end sems. :)
     </li>
 </ul>
